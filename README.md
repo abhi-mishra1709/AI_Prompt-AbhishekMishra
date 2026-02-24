@@ -1,0 +1,1 @@
+"This website is a modern digital showcase created by Abhishek Mishra, highlighting the capabilities of AI-driven web development and prompt engineering. Hosted on Vercel, it serves as a live portfolio demonstrating how artificial intelligence can be used to rapidly generate and design web interfaces."
